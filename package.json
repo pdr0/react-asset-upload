@@ -6,17 +6,18 @@
   "homepage": "https://github.com/pdr0/react-asset-upload",
   "license": "UNLICENSED",
   "main": "./dist/index.js",
-  "browser": "./dist/index.js",
-  "dependencies": {},
-  "devDependencies": {
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "dependencies": {
     "react": "16.3.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/pdr0/react-asset-upload.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\""
   },
   "bugs": {
     "url": "https://github.com/pdr0/react-asset-upload/issues"

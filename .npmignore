@@ -1,0 +1,15 @@
+# Keeping files out of your package:
+# https://www.npmjs.org/doc/misc/npm-developers.html#Keeping-files-out-of-your-package
+
+#
+# IGNORED FOLDERS
+#
+.idea
+node_modules
+
+#
+# IGNORED FILES
+#
+.gitignore
+.npmignore
+gulpfile.js
