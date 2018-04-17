@@ -7,8 +7,6 @@
   "license": "UNLICENSED",
   "main": "./dist/index.js",
   "scripts": {
-    "preversion": "gulp publish",
-    "postversion": "gulp info",
     "bump": "npm version patch && npm publish",
     "postpublish": " git push && git push --tags",
     "test": "echo \"Error: no test specified\""
