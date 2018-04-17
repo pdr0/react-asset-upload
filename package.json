@@ -16,6 +16,9 @@
   "dependencies": {
     "react": "16.3.2"
   },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/pdr0/react-asset-upload.git"
