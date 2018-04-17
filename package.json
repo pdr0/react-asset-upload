@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "main": "./dist/index.js",
   "scripts": {
-    "preversion": "gulp test && NODE_ENV=production gulp publish",
+    "preversion": "gulp publish",
     "postversion": "gulp info",
     "bump": "npm version patch && npm publish",
     "postpublish": " git push && git push --tags",
