@@ -8,9 +8,8 @@ This is a Beta
 
 React component to upload documents
 
-![](https://img.shields.io/github/release/pandao/editor.md.svg)
-![](https://img.shields.io/github/issues/pandao/editor.md.svg)
-![](https://img.shields.io/bower/v/editor.md.svg)
+![](https://img.shields.io/github/release/pdr0/react-asset-upload.md.svg)
+![](https://img.shields.io/github/issues/pdr0/react-asset-upload.svg)
 
 ### How it works
 
