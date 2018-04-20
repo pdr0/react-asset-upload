@@ -1,6 +1,6 @@
 {
   "name": "react-asset-upload",
-  "description": "React component to upload documents",
+  "description": "Simple React component to upload files.",
   "copyright": "None",
   "version": "0.0.1",
   "homepage": "https://github.com/pdr0/react-asset-upload",
