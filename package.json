@@ -2,7 +2,7 @@
   "name": "react-asset-upload",
   "description": "Simple React component to upload files.",
   "copyright": "None",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/pdr0/react-asset-upload",
   "license": "UNLICENSED",
   "main": "./dist/index.js",
