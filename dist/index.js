@@ -14,7 +14,7 @@ var FileInput = React.createClass({
                     left: 0,
                     opacity: 0,
                     width: '100%',
-                    zIndex: 1
+                    zIndex: 10
                 },
                 text: {
                     position: 'relative',
@@ -28,7 +28,7 @@ var FileInput = React.createClass({
         this.setState({
             value: e.target.value.split(/(\\|\/)/g).pop()
         });
-        if (this.props.onChange) this.props.onChange(e);
+        this.props.onChange ? this.props.onChange(e) : nul;
     },
 
     render: function () {

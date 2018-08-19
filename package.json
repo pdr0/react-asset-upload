@@ -12,10 +12,7 @@
     "test": "echo \"Error: no test specified\""
   },
   "dependencies": {
-    "react": "16.3.2"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1"
+    "react": "16.4.2"
   },
   "repository": {
     "type": "git",
