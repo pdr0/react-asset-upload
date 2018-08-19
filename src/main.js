@@ -28,7 +28,7 @@ var FileInput = React.createClass({
         this.setState({
             value: e.target.value.split(/(\\|\/)/g).pop()
         });
-        if (this.props.onChange) this.props.onChange(e);
+        this.props.onChange ? this.props.onChange(e) : nul;
     },
 
     render: function () {
