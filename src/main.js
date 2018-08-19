@@ -14,7 +14,7 @@ var FileInput = React.createClass({
                     left: 0,
                     opacity: 0,
                     width: '100%',
-                    zIndex: 1
+                    zIndex: 10
                 },
                 text: {
                     position: 'relative',
